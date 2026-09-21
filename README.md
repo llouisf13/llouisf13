@@ -1,4 +1,17 @@
+## 🐍 My Contributions
+
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/llouisf13/llouisf13/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/llouisf13/llouisf13/output/github-snake.svg">
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/llouisf13/llouisf13/output/github-snake.svg">
+</picture>
+
+</div>
 
 # 👋 Olá, eu sou Luís Felipe!
 
