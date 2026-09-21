@@ -162,19 +162,7 @@ Alguns comandos que utilizo:
 - Aprender mais sobre **APIs REST**
 - Evoluir em **Back-end**
 - Continuar fortalecendo minha base em **C**
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=llouisf13&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llouisf13&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
+  
 ---
 
 ## 🎓 Formação
