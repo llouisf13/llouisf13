@@ -213,7 +213,7 @@ Alguns comandos que utilizo:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luis-felipe-silva-rodrigues-b0a3b4286/" target="_blank">
+<a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-silva-rodrigues-b0a3b4286/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Luís_Felipe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
